@@ -3,4 +3,8 @@ second edition
 third edition
 issue resolved
 Hotfix team's solution
+<<<<<<< HEAD
 New function added
+=======
+
+>>>>>>> 1376c9673a8be18f1ac76ee90d7d16d5fbba8661
